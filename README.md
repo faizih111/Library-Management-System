@@ -47,28 +47,6 @@ Fiction: Gothic -> ['Dracula', 'Frankenstein']
 Fiction: Classic -> ['Hamlet', 'Rebecca']  
 Children: Fantasy -> ['Matilda']
 --- Step 7: Binary Tree (In-order Traversal - Alphabetical Order) ---
-python
-Copy code
-Dracula, Frankenstein, Hamlet, Matilda, Rebecca,
-🛠️ Tech Stack
-Language: Python
-
-Concepts: Data Structures & Algorithms (DSA)
-
-Source: W3Schools Python DSA Tutorial
-
-📂 How to Run
-Clone the repo:
-
-bash
-Copy code
-git clone https://github.com/your-username/library-dsa-python.git
-cd library-dsa-python
-Run the Python file:
-
-bash
-Copy code
-python library_dsa.py
-
 ['Hamlet', 'Rebecca', 'Dracula', 'Matilda', 'Frankenstein', 'Carrie', 'Emma']
+
 
